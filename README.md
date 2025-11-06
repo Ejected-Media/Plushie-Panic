@@ -1,6 +1,6 @@
 # Plushie-Panic
 
-![-](pics/1762392438552.jpg)
+![-](Pics/1762392438552.jpg)
 
 * Refining the Concept *
 
