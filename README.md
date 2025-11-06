@@ -1,5 +1,7 @@
 # Plushie-Panic
 
+![-](pics/1762392438552.jpg)
+
 * Refining the Concept *
 
 _ ` cutie Gemini says "I'm currently fleshing out the 'kawaii hack and slash' concept.  The focus now is on defining key visual elements and gameplay mechanics that will create a charming yet action-packed experience.  I'm exploring potential enemy designs and level design to see how to incorporate the "cute" aesthetic with intense combat"
