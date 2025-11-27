@@ -1,3 +1,12 @@
+# Plushie Panic
+~
+
+
+![°](https://github.com/Ejected-Media/Plushie-Panic/blob/main/Pics/1764208717297.jpg "$")
+
+
+___
+
 It looks like the repository is currently a treasure trove of concept art and lore (Sweet-Topia and Kiki the Cupcake Knight sound fantastic), but it's completely empty of actual code.
 That is perfect. It means we have a blank canvas to set up a clean architecture without technical debt.
 Since we are starting from zero, let's lay the foundation. I recommend we start with the Backend (Go) to define our "World Truth" (stats, enemies, spawning), and then mirror that in Kotlin.
