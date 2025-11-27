@@ -1,5 +1,10 @@
 # Plushie-Panic
 
+![°](https://github.com/Ejected-Media/Plushie-Panic/blob/main/Pics/1764209190311.jpg "$")
+
+
+____
+
 ![-](Pics/1762392438552.jpg)
 ![-](Pics/1762384401613.jpg)
 ![-](Pics/1762384936712.jpg)
